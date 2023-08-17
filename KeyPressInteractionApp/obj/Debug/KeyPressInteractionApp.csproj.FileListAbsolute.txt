@@ -1,0 +1,11 @@
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\bin\Debug\KeyPressInteractionApp.exe.config
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\bin\Debug\KeyPressInteractionApp.exe
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\bin\Debug\KeyPressInteractionApp.pdb
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.csproj.AssemblyReference.cache
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.Form1.resources
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.Properties.Resources.resources
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.csproj.GenerateResource.cache
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.csproj.CoreCompileInputs.cache
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.exe
+C:\Users\tngu212\source\repos\KeyPressInteractionApp\KeyPressInteractionApp\obj\Debug\KeyPressInteractionApp.pdb
